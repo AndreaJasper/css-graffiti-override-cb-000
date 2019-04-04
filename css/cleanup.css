@@ -13,6 +13,6 @@ div#wall #tag-3.slick {
 }
 
 
-[ie="tag-4"] {
+.class #tag-4:nth-child(2) {
   display: none;
 }
